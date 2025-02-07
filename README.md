@@ -38,7 +38,7 @@ Built with **Hive** for fast, lightweight, and offline-capable storage.
 
 1️⃣ **Clone the repo:**  
 ```bash
-git clone https://github.com/your-repo/task-notes-tracker.git
-cd task-notes-tracker
+git clone https://github.com/Huzaifa-Muhammed/Todo-APP.git
+cd Todo-APP
 flutter pub get
 flutter run
