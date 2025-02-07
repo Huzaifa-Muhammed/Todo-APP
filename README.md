@@ -29,22 +29,10 @@ Built with **Hive** for fast, lightweight, and offline-capable storage.
 ## 📸 Screenshots  
 
 ### 🏠 Home Screen  
-![Home Screen](screenshots/home.png)  
+![Home Screen](screenshots/s1.jpg)  
 
 ### ➕ Add Task  
-![Add Task](screenshots/add_task.png)  
-
-### ✅ Task List  
-![Task List](screenshots/task_list.png)  
-
-### 📝 Add Note  
-![Add Note](screenshots/add_note.png)  
-
-### 📂 Notes List  
-![Notes List](screenshots/notes_list.png)  
-
-### 🌙 Dark Mode  
-![Dark Mode](screenshots/dark_mode.png)  
+![Add Task](screenshots/s2.jpg)  
 
 ---
 
