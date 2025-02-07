@@ -10,9 +10,7 @@ Built with **Hive** for fast, lightweight, and offline-capable storage.
 ✅ **Task Management** – Create, update, and complete tasks with ease.  
 ✅ **Notes Organizer** – Store, edit, and delete notes on the go.  
 ✅ **Offline Support** – Works without an internet connection using **Hive**.  
-✅ **Lightweight & Fast** – Optimized for performance and minimal storage usage.  
-✅ **Dark Mode Support** – Seamless UI experience in both light and dark themes.  
-✅ **Search & Filter** – Quickly find tasks or notes with built-in search.  
+✅ **Lightweight & Fast** – Optimized for performance and minimal storage usage.
 
 ---
 
