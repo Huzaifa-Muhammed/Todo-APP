@@ -27,10 +27,10 @@ Built with **Hive** for fast, lightweight, and offline-capable storage.
 ## 📸 Screenshots  
 
 ### 🏠 Home Screen  
-![Home Screen](screenshots/s1.jpg)  
+<img src="screenshots/s1.jpg" alt="Home Screen" width="200" height="400">
 
 ### ➕ Add Task  
-![Add Task](screenshots/s2.jpg)  
+<img src="screenshots/s2.jpg" alt="Add Task"  width="200" height="400">
 
 ---
 
